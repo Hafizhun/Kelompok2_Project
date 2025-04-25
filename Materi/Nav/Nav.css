@@ -39,4 +39,6 @@ body.open .background {
 .navbar > button {
   font-size: 25px;
 }
-.navbar-logo;
+.navbar-logo {
+  height: 25px;
+}
